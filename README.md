@@ -5,7 +5,7 @@
 ## :pushpin: About
 
 <p align="justify">
-I'm planning this repository to have both notes or summaries for each topic I study and also external links listed on these subjects, as any awesome list you can search for. Those lists' items are gonna follow the pattern bellow:
+I'm planning this repository to have both notes and summaries for each topic I study. Also, it'll have external links listed on these subjects, as any awesome list you can search for. Those lists' items are gonna follow the pattern bellow:
 </p>
 
 `[type][title](author/origin) - [description][language][payed]`
@@ -17,9 +17,9 @@ The "type" section it's always an emoji with the media informed as the legend be
 :clapper: [type] Video content <br>
 :pencil: [type] Text content <br>
 📚 [type] Whole course <br>
-💰 [payed] Payed content <br>
 🇧🇷 [language] Portuguese <br>
 🇺🇸 [language] English <br>
+💰 [payed] Payed content <br>
 
 ## :question: Prerequisites
 
@@ -30,5 +30,9 @@ The "type" section it's always an emoji with the media informed as the legend be
 - Experienced building any personal app end-to-end, even if simple ones
 
 <p align="justify">
-It's not like you can't read or learn with whatever i'm writing if you don't have these prerequisites. Of course not. But you might enjoy it and take better advantage if you're fammiliar with the topics above. Some of them will help you understand the importance of concepts or how to apply them in your daily routine. Or maybe that's just what I think 'cause I've experienced it all before getting it. I don't know, it's a open source notebook, what you'd expect?
+It's not like you can't read or learn with whatever i'm writing if you don't have these prerequisites. Of course not. But you might enjoy it and take better advantage if you're fammiliar with the topics above. Some of them will help you understand the importance of concepts or how to apply them in your daily routine. Or maybe that's just what I think 'cause I've experienced it all before getting it. I don't know, it's an open source notebook, what you'd expect?
 </p>
+
+## :exclamation: Content
+
+1. **[Programming Paradigms](./programming_paradigms/intro.md)**
