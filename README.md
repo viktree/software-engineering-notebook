@@ -35,6 +35,4 @@ It's not like you can't read or learn with whatever i'm writing if you don't hav
 
 ## :exclamation: Content
 
-1. **[Introdução](o)**
-
-- **[Tecnologias Gerais](#11-tecnologias-gerais)**
+1. **[Programming Paradigms](./programming_paradigms/intro.md)**
