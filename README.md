@@ -20,3 +20,15 @@ The "type" section it's always an emoji with the media informed as the legend be
 💰 [payed] Payed content <br>
 🇧🇷 [language] Portuguese <br>
 🇺🇸 [language] English <br>
+
+## :question: Prerequisites
+
+- WebDev basics (HTML/CSS/JS Vanilla)
+- Knowing any programming language syntax
+- Worked with one or more colleagues in any project
+- Understanding how back and frontend communicates between themselves
+- Experienced building any personal app end-to-end, even if simple ones
+
+<p align="justify">
+It's not like you can't read or learn with whatever i'm writing if you don't have these prerequisites. Of course not. But you might enjoy it and take better advantage if you're fammiliar with the topics above. Some of them will help you understand the importance of concepts or how to apply them in your daily routine. Or maybe that's just what I think 'cause I've experienced it all before getting it. I don't know, it's a open source notebook, what you'd expect?
+</p>
