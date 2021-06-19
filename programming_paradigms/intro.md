@@ -13,8 +13,19 @@ First of all, check the image below:
 </p>
 
 <div align="center">
-<figure>
-<img src="https://user-images.githubusercontent.com/66320795/122657614-86379f80-d13b-11eb-9798-3d76704c94d4.png" height="220px">
-  <figcaption><i>Source: <a href="http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm">http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm<a></i></figcaption>
-</figure>
+  <figure>
+    <img src="https://user-images.githubusercontent.com/66320795/122657614-86379f80-d13b-11eb-9798-3d76704c94d4.png" height="320px">
+    <br>
+    <figcaption>
+      <i>
+      Source: 
+      <a href="http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm">http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm<a>
+      </i>
+    </figcaption>
+  </figure>
 </div>
+
+
+https://medium.com/swlh/introduction-to-programming-paradigms-aafcd6b418d6
+https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/
+https://towardsdatascience.com/what-is-a-programming-paradigm-1259362673c2
