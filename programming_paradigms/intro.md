@@ -5,5 +5,16 @@
 ## :pushpin: What are we talking about and how it'd be useful?
 
 <p align="justify">
-Programming isn't only about coding. In fact, coding might be only "how" and neither "what" or "why". And you know what? No solution is made with "how". That's why we need some tools and concepts to do not good but great code. Paradigms are one step behind that. They dictate what solutions look like, so we can choose "how" while we have "what" and "why" in the macro scope.
+Programming isn't only about coding. In fact, coding might be only "how" and neither "what" or "why". And you know what? No solution is made with only "how". That's why we need some tools and concepts to do not good but great code. Paradigms are one step behind that. They dictate what solutions look like, so we can choose "how" while we have "what" and "why" in the macro scope of the problem.
 </p>
+
+<p align="justify">
+First of all, check the image below:
+</p>
+
+<div align="center">
+<figure>
+<img src="https://user-images.githubusercontent.com/66320795/122657614-86379f80-d13b-11eb-9798-3d76704c94d4.png" height="220px">
+  <figcaption><i>Source: <a href="http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm">http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm<a></i></figcaption>
+</figure>
+</div>
