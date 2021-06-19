@@ -24,8 +24,3 @@ First of all, check the image below:
     </figcaption>
   </figure>
 </div>
-
-
-https://medium.com/swlh/introduction-to-programming-paradigms-aafcd6b418d6
-https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/
-https://towardsdatascience.com/what-is-a-programming-paradigm-1259362673c2
