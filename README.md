@@ -40,4 +40,4 @@ It's not like you can't read or learn with whatever i'm writing if you don't hav
 ## :exclamation: Content
 
 1. **[Programming Paradigms](./programming_paradigms/intro.md)**
-2. **[Data Structures](./data_structure/intro.md)**
+2. **[Data Structures](./data_structures/intro.md)**
