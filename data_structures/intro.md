@@ -17,12 +17,12 @@ As programmers, we always need to think about the time and space our algorithm u
 </p>
 
 <p align="justify">
-As programmers, we always need to think about the time and space our algorithm uses. That's what performance is all about. Big-O is the type of notation we use while wondering the worst scenario for our solution.
+Data structures might be often classified by their characteristics. They can be linear (sequential order) or non-linear (unordered sequence), homogeneous (all data items in given repository has the same type) or heterogeneous (many types of data), static (fixed sizes, structures and memory location at compile time) ou dynamic (when the size, structure and memory locations can change while we use it).
 </p>
 
 <div align="center">
   <figure>
-    <img src="https://user-images.githubusercontent.com/66320795/122687695-17674e80-d1ee-11eb-82ce-a3337a968e70.png" height="320px">
+    <img src="https://user-images.githubusercontent.com/66320795/122687695-17674e80-d1ee-11eb-82ce-a3337a968e70.png" height="470px">
     <br>
     <figcaption>
       <i>
@@ -33,7 +33,9 @@ As programmers, we always need to think about the time and space our algorithm u
   </figure>
 </div>
 <br>
-
+<p align="justify">
+Data structures are often classified by two major categories: primitive and non-primitive. The primitive ones are the basic data structures that directly operate upon the machine instructions and are predefined in the language, consisting of: integer, float, character and boolean. Non-primitive data structures are derived from the primitive ones, they need to be explicited by programmers. They're also called “reference variables” or “object references” since they reference a memory location which stores the data.
+</p>
 
 ## :bomb: TL;DR
 
@@ -44,6 +46,7 @@ As programmers, we always need to think about the time and space our algorithm u
 ## :paperclip: Content about this subject
 
 - :pencil: [The ultimate guide for data structures & algorithm interviews (Rahul Arora)](https://dev.to/rahhularora/the-ultimate-guide-for-data-structures-algorithm-interviews-npo) 🇺🇸 <br>
+- :pencil: [The ultimate guide for data structures & algorithm interviews (Rahul Arora)](https://searchsqlserver.techtarget.com/definition/data-structure) 🇺🇸 <br>
 - :clapper: [Data Structures Easy to Advanced Course (freeCodeCamp)](https://www.youtube.com/watch?v=RBSGKlAvoiM) 🇺🇸 <br>
 
 ## :checkered_flag: Next steps
