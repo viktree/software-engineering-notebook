@@ -1,11 +1,15 @@
 # <h1 align="center"> 💻 Software Engineering Notebook 💻 </h1>
 
-> 🛠️ _Personal notes about major software development concepts. I planned this to be a continuous work and to follow my career evolution. Summary of my knowledge about patterns or similar topics._
+> 🛠️ _Personal notes about major software development concepts. I planned this to be a continuous work and to follow my career evolution._
 
 ## :pushpin: About
 
 <p align="justify">
-I'm planning this repository to have both notes and summaries for each topic I study. Also, it'll have external links listed on these subjects, as any awesome list you can search for. Those lists' items are gonna follow the pattern bellow:
+Coding is a beautiful and very useful thing. Kinda addictive, if you know what I mean. As we get to undestand how to make computers behave as we want them to, we might feel trapped by one single language or syntax. Thats why learning about the teorical part of software engineering needs to be continous and incremental. This repository is supposed to help my own process with that knowledge and share it with other people. Hope you enjoy it!
+</p>
+
+<p align="justify">
+About how it's going to be organized, I'm planning this to have summaries for each topic I study and a TL;DR (too long, didn't read it) section. Also, it'll have external links listed on these subjects, as any awesome list you can search for. Those lists' items are gonna follow the pattern bellow:
 </p>
 
 `[type][title](author/origin) - [description][language][payed]`
