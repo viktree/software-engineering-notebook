@@ -30,11 +30,11 @@ There are two domains we talk about when thinking of programming: the problem do
 </p>
 
 <p align="justify">
-As you can see at the image above, the declarative programming paradigm is closer to our problem, real world, domain while the imperative paradigm is far away from it. This means that it might be easier to translate our problems into declarative languages, 'cause of the tools for abstraction they allow us to use (such as classes and objects). In another perspective, the imperative paradigm is closer to the assembly, computer's native languages, wich means we have less work for compiling these instructions. Tools are functions and data structures.
+As you can see at the image above, the declarative programming paradigm is closer to our problem, real world, domain while the imperative paradigm is far away from it. This means that it might be easier to translate our problems into declarative languages, 'cause of the tools for abstraction they allow us to use (such as classes and objects). In another perspective, the imperative paradigm is closer to the assembly, computer's native languages, which means we have less work for compiling these instructions. Tools are functions and data structures.
 </p>
 
 <p align="justify">
-Languages wich support imperative programming paradigm are command oriented ("sit down"), in this case a program is a sequence of commands and commands update data structures. This gets our abstractions closer to the concepts valiable in assembly languages, but harder to represent human problems. Languages wich support declarative programming paradigms are oriented by descriptions ("today is monday and the day is cloud"), the statements describe the way things are in certain problem domain. Solution-domain objects actually represent problem-domain objects and in this case, a program is about defining the properties and behaviour of these.
+Languages which support imperative programming paradigm are command oriented ("sit down"), in this case a program is a sequence of commands and commands update data structures. This gets our abstractions closer to the concepts valiable in assembly languages, but harder to represent human problems. Languages which support declarative programming paradigms are oriented by descriptions ("today is monday and the day is cloud"), the statements describe the way things are in certain problem domain. Solution-domain objects actually represent problem-domain objects and in this case, a program is about defining the properties and behaviour of these.
 </p>
 
 ## :bomb: TL;DR

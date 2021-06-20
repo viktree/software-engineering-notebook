@@ -15,7 +15,7 @@ About how it's going to be organized, I'm planning this to have summaries for ea
 `[type][title](author/origin) - [description][language][payed]`
 
 <p align="justify">
-The "type" section it's always an emoji with the media informed as the legend below explains. The title is, obviously, the title of each content and between parentheses you'll see the author's or site's name where the contet can be found. Title + origin are always gonna be a link wich redirects you for consuming every content. The "description" section is going to be very objective, single phrased only, about each link. Language and payed are optional information and also always represented by emojis.
+The "type" section it's always an emoji with the media informed as the legend below explains. The title is, obviously, the title of each content and between parentheses you'll see the author's or site's name where the contet can be found. Title + origin are always gonna be a link which redirects you for consuming every content. The "description" section is going to be very objective, single phrased only, about each link. Language and payed are optional information and also always represented by emojis.
 </p>
 
 :clapper: [type] Video content <br>
@@ -40,3 +40,4 @@ It's not like you can't read or learn with whatever i'm writing if you don't hav
 ## :exclamation: Content
 
 1. **[Programming Paradigms](./programming_paradigms/intro.md)**
+2. **[Data Structures](./data_structure/intro.md)**
