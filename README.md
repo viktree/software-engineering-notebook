@@ -9,7 +9,7 @@ Coding is a beautiful and very useful thing. Kinda addictive, if you know what I
 </p>
 
 <p align="justify">
-About how it's going to be organized, I'm planning this to have summaries for each topic I study. Also, it'll have external links listed on these subjects, as any awesome list you can search for. Those lists' items are gonna follow the pattern bellow:
+About how it's going to be organized, I'm planning this to have summaries for each topic I study and a TL;DR (too long, didn't read it) section. Also, it'll have external links listed on these subjects, as any awesome list you can search for. Those lists' items are gonna follow the pattern bellow:
 </p>
 
 `[type][title](author/origin) - [description][language][payed]`

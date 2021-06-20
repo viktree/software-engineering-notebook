@@ -39,8 +39,6 @@ Languages wich support imperative programming paradigm are command oriented ("si
 
 ## :bomb: TL;DR
 
-> _Too long, didn't read it_
-
 <p align="justify">
 There are two major programming paradigms: <b>(1) imperative</b> - tells the computer how to do, so it's faster to compile but less flexible to represent human's problems & <b>(2) declarative</b> - tells the computer what to do, so it's slower to compile but more flexible to represent human's problems. Languages can support one or both of them. 
 </p>
