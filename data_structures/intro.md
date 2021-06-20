@@ -46,7 +46,7 @@ Data structures are often classified by two major categories: primitive and non-
 ## :paperclip: Content about this subject
 
 - :pencil: [The ultimate guide for data structures & algorithm interviews (Rahul Arora)](https://dev.to/rahhularora/the-ultimate-guide-for-data-structures-algorithm-interviews-npo) 🇺🇸 <br>
-- :pencil: [The ultimate guide for data structures & algorithm interviews (Rahul Arora)](https://searchsqlserver.techtarget.com/definition/data-structure) 🇺🇸 <br>
+- :pencil: [Definition: Data structures (David Loshin)](https://searchsqlserver.techtarget.com/definition/data-structure) 🇺🇸 <br>
 - :clapper: [Data Structures Easy to Advanced Course (freeCodeCamp)](https://www.youtube.com/watch?v=RBSGKlAvoiM) 🇺🇸 <br>
 
 ## :checkered_flag: Next steps
