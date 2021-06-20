@@ -47,9 +47,9 @@ There are two major programming paradigms: <b>(1) imperative</b> - tells the com
 
 ## :paperclip: Content about this subject
 
-:pencil: [A Brief Survey of “Programming Paradigms”(Jing Cheng)](https://medium.com/@jingchenjc2019a-brief-survey-of-programming-paradigms-207543a84e2b) - Short article with philosophical and practical topics 🇺🇸 <br>
-:pencil: [Programming Paradigms(CS Department, San José State Univertisy)](http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm) - Most of my summary comes from here, amazing and objective introduction 🇺🇸 <br>
-:pencil: [Introduction to Programming Paradigms(Osgood Gunawan)](https://medium.com/swlh/introduction-to-programming-paradigms-aafcd6b418d6) - I can relate to this one, it's more like a discussion  🇺🇸 <br>
+- :pencil: [A Brief Survey of “Programming Paradigms” (Jing Cheng)](https://medium.com/@jingchenjc2019a-brief-survey-of-programming-paradigms-207543a84e2b) - Short article with philosophical and practical topics 🇺🇸 <br>
+- :pencil: [Programming Paradigms (CS Department, San José State Univertisy)](http://www.cs.sjsu.edu/~pearce/modules/lectures/languages3/paradigms/index.htm) - Most of my summary comes from here, it's amazing 🇺🇸 <br>
+- :pencil: [Introduction to Programming Paradigms (Osgood Gunawan)](https://medium.com/swlh/introduction-to-programming-paradigms-aafcd6b418d6) - I can relate to this one, it's more like a discussion  🇺🇸 <br>
 
 ## :checkered_flag: Next steps
 
