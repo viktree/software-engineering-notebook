@@ -1,6 +1,6 @@
 # <h1 align="center"> 💻 Introduction to Data Structures 💻 </h1>
 
-> 🛠️ _Data structure is the way we systematicly organize a collection of data so it can be used effectively. It's a specialized format to  processing, retrieving and storing data._
+> 🛠️ _Data structure is the way we systematically organize a collection of data so it can be used effectively. It's a specialized format to  processing, retrieving and storing data._
 
 ## :pushpin: What are we talking about? Abstraction, Primitive & Non-primitive.
 
@@ -9,7 +9,7 @@ When coding, we dive into algorithms as solutions. The data structures we choose
 </p>
 
 <p align="justify">
-Abstract Data Types (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to. This means when thinking of ADT, we're talking about how this data structure should behave and what methods should it have. Imagine we go to point A to point B, the abstraction data type is "vehicle" while "bike" or "car" are the implementation of this abstraction, the data structure.
+Abstract Data Types (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to. This means when thinking of ADT, we're talking about how this data structure should behave and what methods should it have. Imagine we go to point A to point B, the abstraction data type is "vehicle" while "bike" or "car" are implementations of this abstraction, the data structure.
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ Data structures are often classified by two major categories: primitive and non-
 ## :paperclip: Content about this subject
 
 - :pencil: [The ultimate guide for data structures & algorithm interviews (Rahul Arora)](https://dev.to/rahhularora/the-ultimate-guide-for-data-structures-algorithm-interviews-npo) 🇺🇸 <br>
-- :pencil: [The ultimate guide for data structures & algorithm interviews (Rahul Arora)](https://searchsqlserver.techtarget.com/definition/data-structure) 🇺🇸 <br>
+- :pencil: [Definition: Data structures (David Loshin)](https://searchsqlserver.techtarget.com/definition/data-structure) 🇺🇸 <br>
 - :clapper: [Data Structures Easy to Advanced Course (freeCodeCamp)](https://www.youtube.com/watch?v=RBSGKlAvoiM) 🇺🇸 <br>
 
 ## :checkered_flag: Next steps
