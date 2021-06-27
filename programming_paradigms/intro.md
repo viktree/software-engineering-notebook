@@ -37,6 +37,10 @@ As you can see at the image above, the declarative programming paradigm is close
 Languages which support imperative programming paradigm are command oriented ("sit down"), in this case a program is a sequence of commands and commands update data structures. This gets our abstractions closer to the concepts valiable in assembly languages, but harder to represent human problems. Languages which support declarative programming paradigms are oriented by descriptions ("today is monday and the day is cloud"), the statements describe the way things are in certain problem domain. Solution-domain objects actually represent problem-domain objects and in this case, a program is about defining the properties and behaviour of these.
 </p>
 
+<p align="justify">
+Despite those two paradigms are hte major ones, each of them has subcategories. We'll introduce them as our next steps listed below.
+</p>
+
 ## :bomb: TL;DR
 
 <p align="justify">
@@ -51,3 +55,7 @@ There are two major programming paradigms: <b>(1) imperative</b> - tells the com
 
 ## :checkered_flag: Next steps
 
+1. **[Functional Programming](./functional.md)**
+2. **[Object-oriented programming''](./object_oriented.md)**
+3. **[Procedural programming''](./procedural.md)**
+4. **[Logic programming''](./logic.md)**
