@@ -41,3 +41,4 @@ It's not like you can't read or learn with whatever i'm writing if you don't hav
 
 1. **[Programming Paradigms](./programming_paradigms/intro.md)**
 2. **[Data Structures](./data_structures/intro.md)**
+3. **[Clean Code](./clean_code/intro.md)**
