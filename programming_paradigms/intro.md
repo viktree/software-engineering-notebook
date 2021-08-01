@@ -56,6 +56,6 @@ There are two major programming paradigms: <b>(1) imperative</b> - tells the com
 ## :checkered_flag: Next steps
 
 1. **[Functional Programming](./functional.md)**
-2. **[Object-oriented programming''](./object_oriented.md)**
-3. **[Procedural programming''](./procedural.md)**
-4. **[Logic programming''](./logic.md)**
+2. **[Object-oriented programming](./object_oriented.md)**
+3. **[Procedural programming](./procedural.md)**
+4. **[Logic programming](./logic.md)**
