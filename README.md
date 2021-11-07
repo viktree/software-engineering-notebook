@@ -39,10 +39,14 @@ It's not like you can't read or learn with whatever i'm writing if you don't hav
 
 ## :exclamation: Content
 
-1. **[Programming Paradigms](./programming_paradigms/intro.md)**
-2. **[Data Structures](./data_structures/intro.md)**
-3. **[Clean Code](./clean_code/intro.md)**
-4. **[Development Principles](./clean_code/intro.md)**
-5. **[Design Patterns](./clean_code/intro.md)**
-6. **[Agile Development](./clean_code/intro.md)**
-7. **[Data modeling](./clean_code/intro.md)**
+1. **[Programming Paradigms](./notes/programming_paradigms/intro.md)**
+2. **[Data Structures](./notes/data_structures/intro.md)**
+3. **[Clean Code](./notes/clean_code/intro.md)**
+4. **[Development Principles](./notes/clean_code/intro.md)**
+5. **[Design Patterns](./notes/clean_code/intro.md)**
+6. **[Agile Development](./notes/clean_code/intro.md)**
+7. **[Data modeling](./notes/clean_code/intro.md)**
+
+## :exclamation: Code content & examples
+
+1. **[99 Bottles of OOP](./codes/99_bottles/README.md)**
