@@ -38,7 +38,7 @@ Languages which support imperative programming paradigm are command oriented ("s
 </p>
 
 <p align="justify">
-Despite those two paradigms are hte major ones, each of them has subcategories. We'll introduce them as our next steps listed below.
+Despite those two paradigms are the major ones, each of them has subcategories. We'll introduce them as our next steps listed below.
 </p>
 
 ## :bomb: TL;DR
